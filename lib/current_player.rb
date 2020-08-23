@@ -7,3 +7,6 @@ count = 0
   end
   count
 end
+
+def current_player
+  
